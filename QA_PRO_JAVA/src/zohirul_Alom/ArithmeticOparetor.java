@@ -43,6 +43,8 @@ public class ArithmeticOparetor {
 		total = dcheck % dcash;
 		System.out.println("Reminder: "+total);
 		
+		System.out.println(" \"Well Done\" ");
+		
 		
 		
 		
