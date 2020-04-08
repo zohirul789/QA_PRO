@@ -3,9 +3,11 @@ package zohirul_Alom;
 public class AssinmentOparetor {
 
 	public static void main(String[] args) {
-		int x,y;
-		 x=609;
-		 y=340;
+		int x, y;
+		 
+		
+		 x = 609;
+		 y = 340;
 		 
 		 System.out.print("Addition x = ");
 		 x += y;
@@ -20,17 +22,13 @@ public class AssinmentOparetor {
 		 System.out.println(x);
 		 
 		 System.out.print("Division x = ");
-		 x /= y;
+		  x /= y;
 		 System.out.println(x);
 		 
 		 System.out.print("Remaindar x = ");
 		 x %= y;
 		 System.out.println(x);
 		 
-		 
-		
-		
-		
 
 	}
 

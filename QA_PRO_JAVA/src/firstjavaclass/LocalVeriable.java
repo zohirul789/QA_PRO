@@ -9,15 +9,29 @@ package firstjavaclass;
  */
 public class LocalVeriable {
 
-	/**
-	 * @param args
-	 */
-	
 	public static void main(String[] args) {
-		int a;
-		a=5;
-		System.out.println(a);
-
+	
+		int confirmCase, death, recovered, currentCase;
+		
+		confirmCase = 400000;
+		death = 13000;
+		recovered = 17000;
+		
+		currentCase = confirmCase - death -recovered;
+		
+		double currentCase2 = (double)confirmCase - death- recovered;
+		
+		System.out.println("Remaining Case is: "+currentCase);
+		System.out.println(currentCase2);
+		System.out.println(" \"More New Case Might Be Add\" ");
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }

@@ -45,15 +45,6 @@ public class ArithmeticOparetor {
 		
 		System.out.println(" \"Well Done\" ");
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
 	}
 
