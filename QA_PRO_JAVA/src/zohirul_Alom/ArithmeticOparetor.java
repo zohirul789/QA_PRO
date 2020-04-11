@@ -4,13 +4,9 @@ import java.util.Scanner;
 
 public class ArithmeticOparetor {
 	/*
-	 * Assignment operator...
-	 * 
-	 *  +=
-	 *  -=
-	 *  *=
-	 *  /=
-	 *  %=
+	 * Arithmetic operator...
+	 *  
+	 *  +, - ,* ,/ , %
 	 *  
 	 *  */
 

@@ -1,13 +1,19 @@
 package zohirul_Alom;
 
-public class AssinmentOparetor {
+public class AssinmentOparetor { 
+	/*
+	 * Assignment Operator.....
+	 * 
+	 * +=, -=, *=, /=, %=
+	 * 
+	 * */
 
 	public static void main(String[] args) {
+		
 		int x, y;
 		 
-		
-		 x = 609;
-		 y = 340;
+		 x = 100;
+		 y = 65;
 		 
 		 System.out.print("Addition x = ");
 		 x += y;
@@ -28,6 +34,8 @@ public class AssinmentOparetor {
 		 System.out.print("Remaindar x = ");
 		 x %= y;
 		 System.out.println(x);
+		 
+		 System.out.println(" \" WELL DONE \" ");
 		 
 
 	}
