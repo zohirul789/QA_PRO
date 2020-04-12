@@ -12,6 +12,8 @@ public class Test {
 		t1.phone=7189155916L;
 		t1.displayInformation();
 		t1.displayInformation1();
+		System.out.println("\n");
+		System.out.println(" \"Wel COME To Inheritance Program \" ");
 
 	}
 
