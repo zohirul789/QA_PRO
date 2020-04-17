@@ -14,16 +14,15 @@ public class Conditional {
 		
 		Scanner input = new Scanner(System.in);
 		
-		int age1, age2, older,older1;
+		int number1, number2, large;
 		System.out.print("Enter age1 & age2: ");
-		age1= input.nextInt();
-		age2= input.nextInt();
+		number1= input.nextInt();
+		number2= input.nextInt();
 		
-		older = (age1>age2) ? age1 : age2;
-		older1=(age2<age1) ? age2: age1;
+		large = (number1>number2 ? number1 : number2);
 		
-		System.out.println(older);
-		System.out.println(older1);
+		System.out.print("Large Number:"+large);
+		
 		
 		
 

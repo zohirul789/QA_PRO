@@ -3,6 +3,8 @@ package zohirul_Alom;
 import java.util.Scanner;
 
 public class LogicalEndOperator {
+	
+	// logical operator use to make relation between two or more function.
 
 	public static void main(String[] args) {
 	
