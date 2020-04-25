@@ -11,6 +11,7 @@ public class Array_1 {
 	public static void main(String[] args) {
 		
 		int [] number = new int[5];
+		int sum = 0;
 		
 		number[0] = 10;
 		number[1] = 20;
@@ -18,7 +19,7 @@ public class Array_1 {
 		number[3] = 40;
 		number[4] = 50;
 		
-		int sum = number[0]+number[1]+number[2]+number[3]+number[4];
+		sum = number[0]+number[1]+number[2]+number[3]+number[4];
 		System.out.println("Sum is = "+sum);
 		
 		int len = number.length;
