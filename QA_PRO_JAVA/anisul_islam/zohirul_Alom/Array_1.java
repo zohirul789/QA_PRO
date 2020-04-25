@@ -1,6 +1,12 @@
 package zohirul_Alom;
 
 public class Array_1 {
+	
+	// Declaring array....
+	// syntax: <datatype> [] ArayName;
+	// int [] number;
+	// Creating Array.....
+	// int [] number = new int[10];
 
 	public static void main(String[] args) {
 		
@@ -13,15 +19,10 @@ public class Array_1 {
 		number[4] = 50;
 		
 		int sum = number[0]+number[1]+number[2]+number[3]+number[4];
-		System.out.println(sum);
+		System.out.println("Sum is = "+sum);
 		
 		int len = number.length;
 		System.out.println("Array Size = "+len);
-		
-		
-		
-		
-		
 
 	}
 
