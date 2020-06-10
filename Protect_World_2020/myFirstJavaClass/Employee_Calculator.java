@@ -19,15 +19,12 @@ public class Employee_Calculator {
 		System.out.println("Enter Employee Name: ");
 		emp_name=my.nextLine();
 		
-		
 		System.out.println("Enter Employee Hourly Rate: ");
 		emp_hourly_rate=my.nextDouble();
-		
-		
+			
 		System.out.println("Enter Employee Total Hour: ");
 		emp_total_hour=my.nextDouble();
 		System.out.println("");
-		
 		
 		//Calculate Gross Pay...
 		gross_pay = emp_hourly_rate * emp_total_hour;
