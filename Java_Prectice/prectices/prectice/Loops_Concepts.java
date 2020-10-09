@@ -9,6 +9,7 @@ public class Loops_Concepts {
 			System.out.println("Tournament Coming Soon");
 			
 		}
+		
 		// while loops
 		System.out.println("\n");
 		System.out.println("*****While Loops*****"+"\n");
@@ -17,6 +18,7 @@ public class Loops_Concepts {
 			System.out.println("Philli Tournament on octuber 18");
 			j++;
 		}
+		
 		// Do While Loops
 		System.out.println("\n");
 		System.out.println("*****Do While Loops*****"+"\n");
