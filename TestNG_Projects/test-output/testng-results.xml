@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21120" started-at="2020-09-25T22:59:55 EDT" finished-at="2020-09-25T23:00:16 EDT">
+  <suite name="Default suite" duration-ms="146" started-at="2020-10-10T22:37:20 EDT" finished-at="2020-10-10T22:37:21 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21120" started-at="2020-09-25T22:59:55 EDT" finished-at="2020-09-25T23:00:16 EDT">
-      <class name="emirates.VerifyHomePage">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:emirates.VerifyHomePage@5c5a1b69]" name="beforeTest" is-config="true" duration-ms="9723" started-at="2020-09-25T22:59:55 EDT" finished-at="2020-09-25T23:00:05 EDT">
+    <test name="Default test" duration-ms="146" started-at="2020-10-10T22:37:20 EDT" finished-at="2020-10-10T22:37:21 EDT">
+      <class name="FirstTestNG.Loops_Concepts">
+        <test-method status="PASS" signature="Loops_Start()[pri:0, instance:FirstTestNG.Loops_Concepts@5bc79255]" name="Loops_Start" is-config="true" duration-ms="34" started-at="2020-10-10T22:37:21 EDT" finished-at="2020-10-10T22:37:21 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:emirates.VerifyHomePage@5c5a1b69]" name="f" duration-ms="7541" started-at="2020-09-25T23:00:05 EDT" finished-at="2020-09-25T23:00:13 EDT">
+        </test-method> <!-- Loops_Start -->
+        <test-method status="PASS" signature="Do_while_Loops()[pri:0, instance:FirstTestNG.Loops_Concepts@5bc79255]" name="Do_while_Loops" duration-ms="11" started-at="2020-10-10T22:37:21 EDT" finished-at="2020-10-10T22:37:21 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:emirates.VerifyHomePage@5c5a1b69]" name="afterTest" is-config="true" duration-ms="3744" started-at="2020-09-25T23:00:13 EDT" finished-at="2020-09-25T23:00:16 EDT">
+        </test-method> <!-- Do_while_Loops -->
+        <test-method status="PASS" signature="For_Loops()[pri:0, instance:FirstTestNG.Loops_Concepts@5bc79255]" name="For_Loops" duration-ms="2" started-at="2020-10-10T22:37:21 EDT" finished-at="2020-10-10T22:37:21 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- emirates.VerifyHomePage -->
+        </test-method> <!-- For_Loops -->
+        <test-method status="PASS" signature="While_loops()[pri:0, instance:FirstTestNG.Loops_Concepts@5bc79255]" name="While_loops" duration-ms="2" started-at="2020-10-10T22:37:21 EDT" finished-at="2020-10-10T22:37:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- While_loops -->
+        <test-method status="PASS" signature="Loops_End()[pri:0, instance:FirstTestNG.Loops_Concepts@5bc79255]" name="Loops_End" is-config="true" duration-ms="1" started-at="2020-10-10T22:37:21 EDT" finished-at="2020-10-10T22:37:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loops_End -->
+      </class> <!-- FirstTestNG.Loops_Concepts -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
